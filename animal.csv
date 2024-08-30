@@ -1,0 +1,6 @@
+,Animals,Age,visit,priority
+A,Loyan,21.0,0,Yes
+B,dog,5.0,100,No
+C,cat,2.0,25,No
+D,snake,,2,Yes
+E,parot,,10,Yes
